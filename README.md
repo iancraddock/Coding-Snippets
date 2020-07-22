@@ -1,2 +1,2 @@
 # Coding-Snippets
-Coding snippets for a multitude of programming languages
+Coding snippets for a multitude of programming languages and tools
