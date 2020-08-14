@@ -2,9 +2,9 @@
 
 ##### Documentation links
 
-[JavaScript Documentation]('DOCUMENTATION.md')
+[JavaScript Documentation]('https://github.com/iancraddock/Coding-Snippets/blob/master/JavaScript/DOCUMENTATION.md')
 
 ##### Code snippets
 
-[JavaScript Code snippets]('CODE.md')
+[JavaScript Code snippets]('https://github.com/iancraddock/Coding-Snippets/blob/master/JavaScript/CODE.md')
 
