@@ -2,9 +2,9 @@
 
 ##### Documentation links
 
-[JavaScript Documentation]('./DOCUMENTATION.md')
+[JavaScript Documentation]('DOCUMENTATION.md')
 
 ##### Code snippets
 
-[JavaScript Code snippets]('./CODE.md')
+[JavaScript Code snippets]('CODE.md')
 
