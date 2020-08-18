@@ -12,3 +12,10 @@
 
 [JavaScript Types Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
+##### API Mock
+
+[JavaScript API Mock](https://jsonplaceholder.typicode.com/)
+
+##### JavaScript Promise
+
+[JavaScript Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
