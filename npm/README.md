@@ -12,3 +12,8 @@ npm audit --registry=https://registry.npmjs.org
 npm update --save/--save-dev
 ```
 
+##### Outdated packages (dependencies & devDevpendencies)
+
+```
+npm outdated
+```
