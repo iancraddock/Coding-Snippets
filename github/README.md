@@ -41,3 +41,21 @@ git commit -m "My Message..."
 ```
 git status
 ```
+
+##### Rebase branch
+
+```
+git rebase -i Branch-Name
+```
+
+##### Rebase continue
+
+```
+git rebase --continue
+```
+
+##### Rebase push
+
+```
+git push -f
+```
