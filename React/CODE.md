@@ -2,6 +2,26 @@
 
 #### Hook Snippets
 
+##### Before render hook
+
+```typescript
+const useBeforeFirstRender = (f: any): void => {
+    const hasRendered = useRef(false);
+    useEffect(() => {
+        hasRendered.current = true;
+    }, [hasRendered]);
+    if (!hasRendered.current) {
+        f();
+    }
+}
+
+## Usage
+useBeforeFirstRender(() => {
+    // your code here
+});
+
+```
+
 ##### Calculate Window Dimensions
 
 ```typescript
