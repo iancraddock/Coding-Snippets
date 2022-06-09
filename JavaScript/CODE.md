@@ -67,3 +67,18 @@ var myHex = hexify('rgba(57,156,29,0.05)'); // "#f5faf3"
 console.log(myHex);
 ```
 
+##### Capitalise Name
+
+```javascript
+const capitalise = function (value: string): string {
+    const pattern = new RegExp(/(?:^|\s|['`‘’.-])[^\x00-\x60^\x7B-\xDF](?!(\s|$))/g);
+    return value
+        .trim()
+        .toLowerCase()
+        .replace(pattern, function (newValue) {
+            return newValue.toUpperCase();
+        });
+};
+
+console.log(capitalise(' bob smith-jones '));
+```
